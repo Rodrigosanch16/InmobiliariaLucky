@@ -1,2 +1,0 @@
-# InmobiliariaLucky
-Proyecto Inmobiliaria
